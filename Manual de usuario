@@ -1,0 +1,16 @@
+TINDER 2.0
+
+Manual de usuario
+
+Bienvenido a Tinder 2.0, éste es un programa donde le facilitará a usted y a otras personas conocerse de una manera mas fácil y rápida. Esto lo realiza a través de un codigo que calcula los intereses de los distintos usuarios, indicando el porcentaje de coincidencia que tengan entre ellos y además, calcula la distancia entre los usuarios. De esta manera, el usuario podrá indicar en el programa las prioridades que debe tener la otra persona, como el sexo, la cercania, etc.
+En este breve manual se detallará el funcionamiento del programa. Todos los archivos necesarios para poder ejecutarlo
+se encuentran dentro de la carpeta "Tinder2.0", con lo cual solo es necesario tener instalado python3 en sus respectivas PC's.
+El archivo principal, es decir, el que es responsable de ejecutar los demas archivos y permitir el funcionamiento del programa es el archivo
+"menu.py". Para ejecutarlo, si es que usted se encuentra en Linux, debe abrir la consola, ubicar la carpeta "Tinder2.0" y ejecutarlo mediante
+el siguiente comando: "python3 menu.py".Por defecto, el programa comenzará con los archivos vacios, excepto por el archivo de usuarios 
+predeterminados.
+Una vez realizado esto, se mostraran por pantalla las opciones que el usuario podra ejecutar. Estas, se ejecutaran ingresando los números correspondientes que se indican en cada opcion entre corchetes( ej, [1] ). A medida que avance en el programa, usted va a ser guiado por instrucciones que Tinder le ira indicando.
+
+Sin mas, esperamos que disfrute de Tinder y de los beneficios que éste le proporcionara a usted y a la comunidad.
+
+Los programadores, Capurro, Juan y Meaca, Kevin.
